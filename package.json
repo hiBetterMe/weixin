@@ -1,0 +1,22 @@
+{
+  "name": "ibe-weixin",
+  "version": "1.0.0",
+  "description": "weixin js sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiBetterMe/weixin-js-sdk.git"
+  },
+  "keywords": [
+    "weixin"
+  ],
+  "author": "liuqin.sheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiBetterMe/weixin-js-sdk/issues"
+  },
+  "homepage": "https://github.com/hiBetterMe/weixin-js-sdk#readme"
+}
